@@ -8,6 +8,8 @@ Write in this document the interface of a page object class for this page.
 
 ## Answer
 
+Authors: Dufeil Jaufret & Gentile Brian
+
 ```java
 public interface pageObject {
 

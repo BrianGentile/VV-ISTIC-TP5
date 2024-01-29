@@ -13,6 +13,8 @@ Include the code of the walker and the snapshot in this document.
 
 ## Answer
 
+Authors: Dufeil Jaufret & Gentile Brian
+
 ```python
 from selenium import webdriver
 from selenium.webdriver.common.by import By
